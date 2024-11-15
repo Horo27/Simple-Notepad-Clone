@@ -20,7 +20,7 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/notepad-clone.git
+   git clone https://github.com/Horo27/Simple-Notepad-Clone.git
    cd notepad-clone
 
 2. **Install dependencies**:<br>
