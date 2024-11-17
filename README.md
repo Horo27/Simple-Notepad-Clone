@@ -21,7 +21,7 @@ To run the app locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Horo27/Simple-Notepad-Clone.git
-   cd notepad-clone
+   cd tauripad
 
 2. **Install dependencies**:<br>
      Make sure you have Rust installed. You can follow the installation guide [here](https://doc.rust-lang.org/beta/book/ch01-01-installation.html).<br>
