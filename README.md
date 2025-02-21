@@ -1,6 +1,6 @@
 # Notepad Clone App
 
-This is a simple **Notepad Clone App** built using **Tauri** with a Rust backend and a vanilla frontend (HTML, CSS, JavaScript). The app also uses **Deno** for some additional functionality. It provides basic functionality to manage text files and offers a lightweight, desktop-friendly alternative for quick note-taking.
+This is a simple **Notepad Clone App** built using **Tauri** with a Rust backend and a vanilla frontend (HTML, CSS, JavaScript). The app provides basic functionality to manage text files and offers a lightweight, desktop-friendly alternative for quick note-taking.
 
 ## Features
 
